@@ -33,7 +33,7 @@ Hands-on experience in data joining, cleaning, and visualization
 
 Gained a deeper understanding of business intelligence and analytics
 ## How to Use
-Download the dataset (Sample - Superstore.csv) from this repository
+Download the dataset (Sample - Superstore.xlsx) from this repository
 
 Open Tableau and import the dataset
 
